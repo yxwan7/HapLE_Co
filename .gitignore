@@ -1,0 +1,27 @@
+# R files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user/
+
+# SAS files
+*.log
+*.lst
+work/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Output files (you may want to customize this)
+*.pdf
+*.html
+
