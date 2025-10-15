@@ -24,7 +24,7 @@ This repository contains the replication code for the paper *Are Older Adults in
 │   ├── 2_3_plot_stack_LE_edu.R        # Stacked LE plot by education
 │   └── 2_4_plot_stack_LE_urban.R      # Stacked LE plot by urban/rural
 │
-└── SPACE/                      # SPACE software files for multistate life table analysis
+└── SPACE/                      # Modified SPACE files for multistate life table analysis
     └── 68_73/                  # Analysis for 68-73 age range (Omit other age ranges)
         ├── sex/                # Analysis by sex
         ├── sex_all/            # Overall sex-stratified analysis
